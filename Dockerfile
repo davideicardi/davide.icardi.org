@@ -23,7 +23,7 @@ WORKDIR /usr/src/app
 
 # Install app dependencies
 COPY . /usr/src/app
-RUN npm install
+RUN npm install --only=production
 
 EXPOSE 8181
 
