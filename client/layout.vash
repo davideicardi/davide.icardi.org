@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Davide Icardi - software developer</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" href="/all.min.css" />
+
+	@html.block('head')
+</head>
+<body>
+	<div id="header" class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+        <a class="navbar-brand" href="/">Davide Icardi</a>
+      </div>
+		</div>
+	</div>
+
+	@html.block('content')
+
+	<div id="footer">
+		<p>
+			Copyright&copy; 2017 - Davide Icardi<br />
+			&lt;<a href="mailto:davide.icardi@gmail.com">davide.icardi@gmail.com</a>&gt;
+		</p>
+	</div>
+
+	<script type="text/javascript" src="/all.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,420 @@
+a {
+	color: #002A55;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #00376f;
+}
+
+a:visited {
+	color: #002A55;
+}
+
+/* General CSS rules */
+.hide {
+	display: none;
+}
+
+/* body */
+body {
+	/*background: url(images/background-body.png) top repeat-x;*/
+	/*font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
+	/*padding:0px;*/
+}
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+	padding-top: 70px;
+}
+
+/* home background */
+/*@media (min-width: 1025px) {
+#background_home {
+background-repeat: no-repeat;
+background-image: url(images/photo_venaria.jpg);
+background-size: 100%;
+height: 300px;
+}
+}
+@media (min-width: 513px) and (max-width: 1024px) {
+#background_home {
+background-repeat: no-repeat;
+background-image: url(images/photo_venaria_1024.jpg);
+background-size: 100%;
+height: 150px;
+}
+}
+@media (max-width: 512px) {
+#background_home {
+background-repeat: no-repeat;
+background-image: url(images/photo_venaria_512.jpg);
+background-size: 100%;
+height: 80px;
+}
+}*/
+
+/* Footer */
+#footer {
+	margin-top: 10px;
+	padding: 5px;
+	color: #999;
+	background-color: black;
+}
+
+#footer a {
+	color: #999;
+}
+
+#footer p {
+	text-align: center;
+}
+
+/* header */
+#header h1 {
+	margin: 0;
+	padding: 0;
+}
+
+.section {
+	padding-top: 10px;
+}
+
+.section h2 {
+	font-size: 36px;
+	text-transform: lowercase;
+	color: #550000;
+	line-height: 1;
+	padding: 0;
+}
+
+#boxProfile {
+	color: #550000;
+	text-align: center;
+	font-size: 18px;
+
+	a {
+		color: #550000;
+		text-decoration: underline;
+	}
+}
+
+#boxGists {
+	.list {
+		max-height: 250px;
+		overflow-y: scroll;
+	}
+}
+
+#boxContact {
+	ul {
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+	}
+
+	li {
+		padding: 0;
+		margin: 4px;
+		float: left;
+	}
+
+	#btCurriculum,
+	#btLinkedIn {
+		background-color: #EEEDED;
+		border: 1px solid #BFBFBF;
+		padding-left: 4px;
+		padding-top: 18px;
+		padding-bottom: 18px;
+	}
+
+	p {
+		clear: both;
+	}
+
+	#btCurriculum span {
+		background-repeat: no-repeat;
+		background-position: right center;
+		background-image: url(images/pdf.png);
+		padding-right: 32px;
+		padding-top: 18px;
+		padding-bottom: 18px;
+	}
+
+	#btLinkedIn span {
+		background-repeat: no-repeat;
+		background-position: right center;
+		background-image: url(http://www.linkedin.com/img/webpromo/btn_in_20x15.png);
+		padding-right: 32px;
+		padding-top: 18px;
+		padding-bottom: 18px;
+	}
+}
+
+
+#boxBooks {
+}
+
+#boxBooks img {
+	height: 156px;
+}
+
+#boxTechnologies {
+}
+
+#boxTechnologies .content {
+	overflow: hidden;
+}
+
+#boxTechnologies ul {
+	padding: 0;
+	margin: 0;
+}
+
+#boxTechnologies li {
+	margin: 5px;
+	list-style-type: none;
+	display: block;
+	width: 90px;
+	height: 70px;
+	float: left;
+	text-align: center;
+	text-transform: lowercase;
+}
+
+#boxTechnologies li span {
+	padding: 30px 0 0 0;
+	text-decoration: none;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+#boxTechnologies li.obsolete {
+	text-decoration: line-through;
+}
+
+#boxTechnologies li:hover a {
+	text-decoration: underline;
+}
+
+#boxTechnologies li.tech_graphql span {
+	background-image: url(images/graphql.png);
+}
+
+#boxTechnologies li.tech_docker span {
+	background-image: url(images/docker.png);
+}
+
+#boxTechnologies li.tech_typescript span {
+	background-image: url(images/typescript.png);
+}
+
+#boxTechnologies li.tech_react span {
+	background-image: url(images/react.png);
+}
+
+#boxTechnologies li.tech_kubernetes span {
+	background-image: url(images/kubernetes.png);
+}
+
+#boxTechnologies li.tech_dotnet span {
+	background-image: url(images/dotnet.png);
+}
+
+#boxTechnologies li.tech_polymer span {
+	background-image: url(images/polymer.png);
+}
+
+#boxTechnologies li.tech_pwa span {
+	background-image: url(images/pwa.png);
+}
+
+#boxTechnologies li.tech_nodejs span {
+	background-image: url(images/nodejs.png);
+}
+
+#boxTechnologies li.tech_sqlserver span {
+	background-image: url(images/sqlserver.png);
+}
+
+#boxTechnologies li.tech_silverlight span {
+	background-image: url(images/silverlight.png);
+}
+
+#boxTechnologies li.tech_aspnet span {
+	background-image: url(images/aspnet.png);
+}
+
+#boxTechnologies li.tech_azure span {
+	background-image: url(images/azure.png);
+}
+
+#boxTechnologies li.tech_java span {
+	background-image: url(images/java.png);
+}
+
+#boxTechnologies li.tech_scala span {
+	background-image: url(images/scala.png);
+}
+
+#boxTechnologies li.tech_ubuntu span {
+	background-image: url(images/ubuntu.png);
+}
+
+#boxTechnologies li.tech_android span {
+	background-image: url(images/android.png);
+}
+
+#boxTechnologies li.tech_html5 span {
+	background-image: url(images/html5.png);
+}
+
+#boxTechnologies li.tech_scrum span {
+	background-image: url(images/scrum.png);
+}
+
+#boxTechnologies li.tech_windowsphone span {
+	background-image: url(images/windowsphone.png);
+}
+
+#boxTechnologies li.tech_ddd span {
+	background-image: url(images/ddd.png);
+}
+
+#boxTechnologies li.tech_mongodb span {
+	background-image: url(images/mongodb.png);
+}
+
+#boxTechnologies li.tech_angularjs span {
+	background-image: url(images/angularjs.png);
+}
+
+#boxTechnologies li.tech_cleancode span {
+	background-image: url(images/clean_code.png);
+}
+
+#boxTechnologies li.tech_cpp span {
+	background-image: url(images/cpp.png);
+}
+
+#boxTechnologies li.tech_cordova span {
+	background-image: url(images/cordova.png);
+}
+
+#boxTechnologies .studybox {
+	border: 3px dotted #550000;
+	border-radius: 5px;
+}
+
+#boxOpenSource, #boxGists
+{
+	ul {
+		padding: 0;
+		margin: 5px 0 5px 0;
+	}
+
+	li {
+		padding: 0 0 0 20px;
+		margin: 0;
+		list-style-type: none;
+		display: block;
+		background-repeat: no-repeat;
+		background-position: left top;
+	}
+
+	li.prj_codeplex {
+		background-image: url(images/codeplex.png);
+	}
+
+	li.prj_codeproject {
+		background-image: url(images/codeproject.png);
+	}
+
+	li.prj_github {
+		background-image: url(images/github.png);
+	}
+
+	p {
+		margin: 0;
+	}
+
+	code {
+		color: #555555;
+	}
+}
+
+/*
+#boxCertifications img {
+}*/
+
+
+
+#admin {
+}
+
+#admin .articles {
+}
+
+#admin .articles table th {
+	cursor: default;
+}
+
+#admin .article {
+}
+
+#admin .article h3.field-name {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#admin .article pre.field-value {
+	max-height: 200px;
+	overflow: scroll;
+}
+
+#admin .article dl.article-info {
+	font-size: smaller;
+}
+
+#admin .article dl.article-info dd {
+	margin-right: 10px;
+}
+
+#admin .article dl.article-info dt:after {
+	content: ":";
+}
+
+#admin .article dl.article-info dt, #admin .article dl.article-info dd {
+	display: inline;
+}
+
+#admin .article .article-field textarea {
+	height: 200px;
+}
+
+#admin .article .article-field-zenmode form {
+	height: 100%;
+	bottom: 0;
+	top: 0;
+}
+
+#admin .article .article-field-zenmode textarea {
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	margin-top: 60px;
+	height: auto;
+}
+
+#admin .article .article-field-zenmode {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 9999;
+	background-color: white;
+}

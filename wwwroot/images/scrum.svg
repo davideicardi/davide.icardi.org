@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="scrum.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="961.95955"
+     inkscape:cy="438.03326"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#800000;stroke-width:77.9;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2991"
+       sodipodi:cx="374.7666"
+       sodipodi:cy="345.76047"
+       sodipodi:rx="188.89853"
+       sodipodi:ry="186.37315"
+       d="M 205.53504,428.56305 A 188.89853,186.37315 0 1 1 285.653,510.09133"
+       sodipodi:start="2.6812179"
+       sodipodi:end="8.3452604"
+       sodipodi:open="true"
+       transform="translate(56.969542,223.89703)"
+       inkscape:export-filename="C:\Users\davide\My Projects\github\QuanticoSoftWeb\Web\img\scrum.png"
+       inkscape:export-xdpi="95.963173"
+       inkscape:export-ydpi="95.963173" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#800000;stroke-width:35.234889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:35.234889,35.234889;stroke-dashoffset:0"
+       id="path3801"
+       sodipodi:cx="203.54573"
+       sodipodi:cy="83.120819"
+       sodipodi:rx="88.388351"
+       sodipodi:ry="63.134533"
+       d="m 223.48401,144.6281 a 88.388351,63.134533 0 1 1 59.3101,-33.54781"
+       sodipodi:start="1.3432622"
+       sodipodi:end="6.7419662"
+       transform="matrix(1.391704,0,0,1.8976894,-94.663098,137.72631)"
+       sodipodi:open="true"
+       inkscape:export-filename="C:\Users\davide\My Projects\github\QuanticoSoftWeb\Web\img\scrum.png"
+       inkscape:export-xdpi="95.963173"
+       inkscape:export-ydpi="95.963173" />
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3807"
+       d="m 183.28372,604.94537 c 14.57716,7.11985 28.38454,15.67009 42.00289,24.46372 18.04425,12.73307 34.65349,27.34131 51.90221,41.10771 3.35212,1.82294 9.66278,9.47954 14.10948,9.32191 0.88347,-0.0313 2.97732,-1.90121 2.19769,-1.48446 -11.39806,6.09287 -22.42307,12.90527 -34.06458,18.519 -1.32968,0.64119 1.86071,-2.29226 2.79106,-3.43839 7.3505,-15.90676 11.37925,-33.1535 16.00735,-49.99882 4.6225,-18.51589 9.63536,-36.95478 15.99492,-54.9541 3.49384,-10.62028 7.69599,-20.96201 12.17169,-31.1976 0,0 38.14608,-17.46232 38.14608,-17.46232 l 0,0 c -4.64317,10.2201 -9.21383,20.4614 -12.76184,31.13225 -6.57666,17.90819 -11.894,36.23513 -16.3985,54.77568 -4.54856,16.96868 -8.81649,34.05717 -14.69425,50.6272 -7.80077,18.16158 -1.96312,7.13633 -41.12444,27.39717 -1.05672,0.54672 -2.39892,-0.23174 -3.50663,-0.66593 -5.45077,-2.13657 -9.24338,-7.41822 -13.95945,-10.58913 -16.71482,-14.08525 -33.1938,-28.58316 -51.30303,-40.87461 -13.90052,-8.50426 -27.87586,-16.98361 -42.8956,-23.39724 0,0 35.38495,-23.28204 35.38495,-23.28204 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\davide\My Projects\github\QuanticoSoftWeb\Web\img\scrum.png"
+       inkscape:export-xdpi="95.963173"
+       inkscape:export-ydpi="95.963173" />
+    <path
+       style="fill:#800000;stroke:#800000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3807-8"
+       d="m 158.85241,450.68766 c 10.08024,-6.76858 21.09226,-12.80747 32.24568,-18.68942 15.65482,-7.57067 32.40528,-13.94416 48.66246,-20.85243 2.46853,-1.51821 10.53996,-3.50577 11.72678,-6.05055 0.23582,-0.5056 -0.66077,-2.07392 -0.55346,-1.54756 1.56874,7.69525 3.83094,15.328 4.93934,23.06204 0.12661,0.88339 -1.30782,-1.52363 -1.96174,-2.28544 -10.71963,-7.43085 -23.50738,-13.2611 -35.79257,-19.34727 -13.64088,-6.42725 -27.10393,-13.05919 -39.81259,-20.36139 -7.57501,-4.16251 -14.71487,-8.66779 -21.68782,-13.30575 0,0 -2.87626,-25.15026 -2.87626,-25.15026 l 0,0 c 6.91089,4.72939 13.86039,9.42217 21.46038,13.6257 12.57061,7.4061 25.85292,14.18698 39.54866,20.55264 12.40869,6.06665 24.99746,11.99943 36.69008,18.7349 12.41411,8.14989 5.20375,2.57972 10.04814,28.88027 0.13073,0.70969 -0.89704,1.30759 -1.57642,1.84394 -3.34316,2.63928 -8.74525,3.69362 -12.70954,5.70465 -16.35777,6.54092 -32.98029,12.86356 -48.2964,20.56194 -11.00229,6.101 -22.00651,12.2494 -31.64519,19.41355 0,0 -8.40953,-24.78956 -8.40953,-24.78956 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\davide\My Projects\github\QuanticoSoftWeb\Web\img\scrum.png"
+       inkscape:export-xdpi="95.963173"
+       inkscape:export-ydpi="95.963173" />
+  </g>
+</svg>
