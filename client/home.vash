@@ -171,25 +171,22 @@
     				</ul>
     			</div>
 
-			  <h3>I'm forgetting...</h3>
-			  <div class="content forgetting">
-				<p>
-				  Technologies used some time ago...
-				</p>
-				<ul>
-				  <li class="tech_cpp obsolete">
-					<a href="http://en.wikipedia.org/wiki/C%2B%2B"><span>C/C++</span></a>
-				  </li>
-				  <li class="tech_java obsolete">
-					<a href="http://www.java.com/"><span>Java</span></a>
-				  </li>
-				</ul>
-			  </div>
-
-				
+					<h3>I'm forgetting...</h3>
+					<div class="content forgetting">
+						<p>
+							Technologies used some time ago...
+						</p>
+						<ul>
+							<li class="tech_cpp obsolete">
+								<a href="http://en.wikipedia.org/wiki/C%2B%2B"><span>C/C++</span></a>
+							</li>
+							<li class="tech_java obsolete">
+								<a href="http://www.java.com/"><span>Java</span></a>
+							</li>
+						</ul>
+					</div>
+				</div>
 			</div>
-		</div>
-
 			
 			@*
     		<div id="boxBooks" class="col-lg-6">
