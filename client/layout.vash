@@ -4,6 +4,7 @@
 	<title>Davide Icardi - software developer</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/all.min.css" />
 
 	@html.block('head')
@@ -25,7 +26,5 @@
 			&lt;<a href="mailto:davide.icardi@gmail.com">davide.icardi@gmail.com</a>&gt;
 		</p>
 	</div>
-
-	<script type="text/javascript" src="/all.min.js"></script>
 </body>
 </html>

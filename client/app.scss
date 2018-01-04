@@ -16,43 +16,10 @@ a:visited {
 	display: none;
 }
 
-/* body */
-body {
-	/*background: url(images/background-body.png) top repeat-x;*/
-	/*font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;*/
-	/*padding:0px;*/
-}
-
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
 	padding-top: 70px;
 }
-
-/* home background */
-/*@media (min-width: 1025px) {
-#background_home {
-background-repeat: no-repeat;
-background-image: url(images/photo_venaria.jpg);
-background-size: 100%;
-height: 300px;
-}
-}
-@media (min-width: 513px) and (max-width: 1024px) {
-#background_home {
-background-repeat: no-repeat;
-background-image: url(images/photo_venaria_1024.jpg);
-background-size: 100%;
-height: 150px;
-}
-}
-@media (max-width: 512px) {
-#background_home {
-background-repeat: no-repeat;
-background-image: url(images/photo_venaria_512.jpg);
-background-size: 100%;
-height: 80px;
-}
-}*/
 
 /* Footer */
 #footer {
@@ -151,15 +118,31 @@ height: 80px;
 	}
 }
 
+#boxStudying {
+	ul {
+		padding: 0;
+		margin: 0;
+		list-style-type: none;
+	}
 
-#boxBooks {
+	li {
+		padding: 0;
+		margin: 4px;
+		float: left;
+	}
+
+	p {
+		clear: both;
+	}
+
+	.studybox {
+		border: 3px dotted #550000;
+		border-radius: 5px;
+	}
 }
 
 #boxBooks img {
 	height: 156px;
-}
-
-#boxTechnologies {
 }
 
 #boxTechnologies .content {
@@ -304,11 +287,6 @@ height: 80px;
 	background-image: url(images/cordova.png);
 }
 
-#boxTechnologies .studybox {
-	border: 3px dotted #550000;
-	border-radius: 5px;
-}
-
 #boxOpenSource, #boxGists
 {
 	ul {
@@ -350,19 +328,8 @@ height: 80px;
 #boxCertifications img {
 }*/
 
-
-
-#admin {
-}
-
-#admin .articles {
-}
-
 #admin .articles table th {
 	cursor: default;
-}
-
-#admin .article {
 }
 
 #admin .article h3.field-name {

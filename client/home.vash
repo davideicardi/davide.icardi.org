@@ -116,9 +116,9 @@
               <li class="tech_typescript">
                 <a href="https://www.typescriptlang.org/"><span>Typescript</span></a>
               </li>
-				<li class="tech_docker">
-					<a href="https://www.docker.com/"><span>Docker</span></a>
-				</li>
+							<li class="tech_docker">
+								<a href="https://www.docker.com/"><span>Docker</span></a>
+							</li>
               <li class="tech_html5">
                 <a href="http://www.w3.org/html/"><span>HTML, js, CSS</span></a>
               </li>
@@ -145,10 +145,11 @@
               </li>
             </ul>
           </div>
-		</div>
+				</div>
+			</div>
 
-    	<div id="boxContact" class="row section">
-			<div class="col-lg-6">
+    	<div id="boxStudying" class="row section">
+				<div class="col-lg-6">
     			<h3><img src="/images/studying.png" alt="studying" /></h3>
     			<div class="content studybox">
     				<ul>
@@ -205,8 +206,8 @@
     				<span class="label label-info">and more ...</span>
     			</div>
     		</div>
-			*@
     	</div>
+			*@
 
     	<div id="boxContact" class="row section">
     		<div class="col-lg-6">
