@@ -9,8 +9,7 @@ const _projects = [
   { "name":"shelf-dependency", "description":"Dependency Injection for node.js", "type":"github", "url":"https://github.com/davideicardi/shelf-dependency" },
   { "name":"Dynamic Expresso", "description":"C# expressions interpreter", "type":"github", "url":"https://github.com/davideicardi/DynamicExpresso" },
   { "name":"search-crawler", "description":"Node.js search engine for dummies", "type":"github", "url":"https://github.com/davideicardi/search-crawler" },
-  { "name":"open-weather", "description":"Cordova weather application for dummies", "type":"github", "url":"https://github.com/davideicardi/open-weather" },
-  { "name":"mongoose-promised", "description":"Node.js mongogoose with Q promise support", "type":"github", "url":"https://github.com/davideicardi/mongoose-promised" }
+  { "name":"open-weather", "description":"Cordova weather application for dummies", "type":"github", "url":"https://github.com/davideicardi/open-weather" }
 ];
 
 function getGists(){
