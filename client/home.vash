@@ -99,95 +99,96 @@
 
     	</div>
 
-    	<div id="boxTechnologies" class="row section">
-    		<div class="col-lg-6">
-          <h2><a id="skills">Skills and technologies</a></h2>
-          <div class="content">
-            <p>
-              Skills and technologies
-            </p>
-            <ul>
-              <li class="tech_nodejs">
-                <a href="http://nodejs.org/"><span>Node.Js</span></a>
-              </li>
-              <li class="tech_dotnet">
-                <a href="http://www.microsoft.com/net/"><span>.NET Framework</span></a>
-              </li>
-              <li class="tech_typescript">
-                <a href="https://www.typescriptlang.org/"><span>Typescript</span></a>
-              </li>
-							<li class="tech_docker">
-								<a href="https://www.docker.com/"><span>Docker</span></a>
-							</li>
-              <li class="tech_html5">
-                <a href="http://www.w3.org/html/"><span>HTML, js, CSS</span></a>
-              </li>
-              <li class="tech_angularjs">
-                <a href="http://angularjs.org/"><span>Angular Js</span></a>
-              </li>
-              <li class="tech_mongodb">
-                <a href="http://www.mongodb.org/"><span>mongo db</span></a>
-              </li>
-              <li class="tech_aspnet">
-                <a href="http://www.asp.net/"><span>ASP.NET</span></a>
-              </li>
-              <li class="tech_sqlserver">
-                <a href="http://www.microsoft.com/sqlserver/"><span>SQL Server</span></a>
-              </li>
-              <li class="tech_scrum">
-                <a href="http://en.wikipedia.org/wiki/Scrum_(development)"><span>scrum, agile, XP</span></a>
-              </li>
-              <li class="tech_ddd" title="Domain-Driven Design, Command Query Responsibility Segregation, Event Sourcing">
-                <a href="http://dddcommunity.org/"><span>DDD, CQRS, ES</span></a>
-              </li>
-              <li class="tech_cleancode">
-                <a href="http://www.cleancoders.com/"><span>Clean code</span></a>
-              </li>
-            </ul>
-          </div>
+			<div class="row section">
+				<div id="boxTechnologies" class="col-lg-6">
+					<div>
+						<h2><a id="skills">Skills and technologies</a></h2>
+						<div class="content">
+							<p>
+								Skills and technologies
+							</p>
+							<ul>
+								<li class="tech_nodejs">
+									<a href="http://nodejs.org/"><span>Node.Js</span></a>
+								</li>
+								<li class="tech_dotnet">
+									<a href="http://www.microsoft.com/net/"><span>.NET Framework</span></a>
+								</li>
+								<li class="tech_typescript">
+									<a href="https://www.typescriptlang.org/"><span>Typescript</span></a>
+								</li>
+								<li class="tech_docker">
+									<a href="https://www.docker.com/"><span>Docker</span></a>
+								</li>
+								<li class="tech_html5">
+									<a href="http://www.w3.org/html/"><span>HTML, js, CSS</span></a>
+								</li>
+								<li class="tech_angularjs">
+									<a href="http://angularjs.org/"><span>Angular Js</span></a>
+								</li>
+								<li class="tech_mongodb">
+									<a href="http://www.mongodb.org/"><span>mongo db</span></a>
+								</li>
+								<li class="tech_aspnet">
+									<a href="http://www.asp.net/"><span>ASP.NET</span></a>
+								</li>
+								<li class="tech_sqlserver">
+									<a href="http://www.microsoft.com/sqlserver/"><span>SQL Server</span></a>
+								</li>
+								<li class="tech_scrum">
+									<a href="http://en.wikipedia.org/wiki/Scrum_(development)"><span>scrum, agile, XP</span></a>
+								</li>
+								<li class="tech_ddd" title="Domain-Driven Design, Command Query Responsibility Segregation, Event Sourcing">
+									<a href="http://dddcommunity.org/"><span>DDD, CQRS, ES</span></a>
+								</li>
+								<li class="tech_cleancode">
+									<a href="http://www.cleancoders.com/"><span>Clean code</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
 				</div>
-			</div>
 
-    	<div id="boxStudying" class="row section">
-				<div class="col-lg-6">
-    			<h3><img src="/images/studying.png" alt="studying" /></h3>
-    			<div class="content studybox">
-    				<ul>
-    					<li class="tech_react">
-    						<a href="https://facebook.github.io/react/"><span>React</span></a>
-    					</li>
-    					<li class="tech_graphql">
-    						<a href="http://graphql.org/learn/"><span>GraphQL</span></a>
-    					</li>
-    					<li class="tech_kubernetes">
-    						<a href="https://kubernetes.io/"><span>Kubernetes</span></a>
-    					</li>
-    					<li class="tech_pwa">
-    						<a href="https://developers.google.com/web/progressive-web-apps/"><span>Progressive Web Apps</span></a>
-    					</li>
-    					<li class="tech_polymer">
-    						<a href="https://www.polymer-project.org/"><span>Polymer</span></a>
-    					</li>
-    				</ul>
-    			</div>
+				<div id="boxStudying" class="col-lg-6">
+					<div>
+						<h3><img src="/images/studying.png" alt="studying" /></h3>
+						<div class="content studybox">
+							<ul>
+								<li class="tech_react">
+									<a href="https://facebook.github.io/react/"><span>React</span></a>
+								</li>
+								<li class="tech_graphql">
+									<a href="http://graphql.org/learn/"><span>GraphQL</span></a>
+								</li>
+								<li class="tech_kubernetes">
+									<a href="https://kubernetes.io/"><span>Kubernetes</span></a>
+								</li>
+								<li class="tech_pwa">
+									<a href="https://developers.google.com/web/progressive-web-apps/"><span>Progressive Web Apps</span></a>
+								</li>
+								<li class="tech_polymer">
+									<a href="https://www.polymer-project.org/"><span>Polymer</span></a>
+								</li>
+							</ul>
+						</div>
 
-					<h3>I'm forgetting...</h3>
-					<div class="content forgetting">
-						<p>
-							Technologies used some time ago...
-						</p>
-						<ul>
-							<li class="tech_cpp obsolete">
-								<a href="http://en.wikipedia.org/wiki/C%2B%2B"><span>C/C++</span></a>
-							</li>
-							<li class="tech_java obsolete">
-								<a href="http://www.java.com/"><span>Java</span></a>
-							</li>
-						</ul>
+						<h3>I'm forgetting...</h3>
+						<div class="content forgetting">
+							<p>
+								Technologies used some time ago...
+							</p>
+							<ul>
+								<li class="tech_cpp obsolete">
+									<a href="http://en.wikipedia.org/wiki/C%2B%2B"><span>C/C++</span></a>
+								</li>
+								<li class="tech_java obsolete">
+									<a href="http://www.java.com/"><span>Java</span></a>
+								</li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
-			
 			@*
     		<div id="boxBooks" class="col-lg-6">
     			<h2><a id="projects">My Bookshelf</a></h2>
