@@ -213,11 +213,6 @@
     			<div class="content">
 
     				<ul>
-    					<li id="btCurriculum">
-    						<a href="/downloads/curriculum_en_public.pdf">
-    							<span>Curriculum vitae</span>
-    						</a>
-    					</li>
     					<li>
     						<a href="http://stackoverflow.com/users/209727/davide-icardi">
     							<img src="http://stackoverflow.com/users/flair/209727.png" width="208" height="58" alt="profile for Davide Icardi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Davide Icardi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" />
