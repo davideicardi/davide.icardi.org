@@ -59,76 +59,70 @@ body {
 	color: #550000;
 	text-align: center;
 	font-size: 18px;
-
-	a {
-		color: #550000;
-		text-decoration: underline;
-	}
+}
+#boxProfile a {
+	color: #550000;
+	text-decoration: underline;
 }
 
-#boxGists {
-	.list {
-		max-height: 250px;
-		overflow-y: scroll;
-	}
+
+#boxGists .list {
+	max-height: 250px;
+	overflow-y: scroll;
 }
 
-#boxContact {
-	ul {
-		padding: 0;
-		margin: 0;
-		list-style-type: none;
-	}
-
-	li {
-		padding: 0;
-		margin: 4px;
-		float: left;
-	}
-
-	#btLinkedIn {
-		background-color: #EEEDED;
-		border: 1px solid #BFBFBF;
-		padding-left: 4px;
-		padding-top: 18px;
-		padding-bottom: 18px;
-	}
-
-	p {
-		clear: both;
-	}
-
-	#btLinkedIn span {
-		background-repeat: no-repeat;
-		background-position: right center;
-		background-image: url(http://www.linkedin.com/img/webpromo/btn_in_20x15.png);
-		padding-right: 32px;
-		padding-top: 18px;
-		padding-bottom: 18px;
-	}
+#boxContact ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
 }
 
-#boxStudying {
-	ul {
-		padding: 0;
-		margin: 0;
-		list-style-type: none;
-	}
+#boxContact li {
+	padding: 0;
+	margin: 4px;
+	float: left;
+}
 
-	li {
-		padding: 0;
-		margin: 4px;
-		float: left;
-	}
+#boxContact #btLinkedIn {
+	background-color: #EEEDED;
+	border: 1px solid #BFBFBF;
+	padding-left: 4px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
 
-	p {
-		clear: both;
-	}
+#boxContact p {
+	clear: both;
+}
 
-	.studybox {
-		border: 3px dotted #550000;
-		border-radius: 5px;
-	}
+#boxContact #btLinkedIn span {
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-image: url(http://www.linkedin.com/img/webpromo/btn_in_20x15.png);
+	padding-right: 32px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+#boxStudying ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+#boxStudying li {
+	padding: 0;
+	margin: 4px;
+	float: left;
+}
+
+#boxStudying p {
+	clear: both;
+}
+
+#boxStudying .studybox {
+	border: 3px dotted #550000;
+	border-radius: 5px;
 }
 
 #boxBooks img {
@@ -283,41 +277,38 @@ li.tech_cordova span {
 	background-image: url(images/cordova.png);
 }
 
-#boxOpenSource, #boxGists
-{
-	ul {
-		padding: 0;
-		margin: 5px 0 5px 0;
-	}
+#boxOpenSource ul, #boxGists ul {
+	padding: 0;
+	margin: 5px 0 5px 0;
+}
 
-	li {
-		padding: 0 0 0 20px;
-		margin: 0;
-		list-style-type: none;
-		display: block;
-		background-repeat: no-repeat;
-		background-position: left top;
-	}
+#boxOpenSource li, #boxGists li {
+	padding: 0 0 0 20px;
+	margin: 0;
+	list-style-type: none;
+	display: block;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
 
-	li.prj_codeplex {
-		background-image: url(images/codeplex.png);
-	}
+#boxOpenSource li.prj_codeplex, #boxGists li.prj_codeplex {
+	background-image: url(images/codeplex.png);
+}
 
-	li.prj_codeproject {
-		background-image: url(images/codeproject.png);
-	}
+#boxOpenSource li.prj_codeproject, #boxGists li.prj_codeproject {
+	background-image: url(images/codeproject.png);
+}
 
-	li.prj_github {
-		background-image: url(images/github.png);
-	}
+#boxOpenSource li.prj_github, #boxGists li.prj_github {
+	background-image: url(images/github.png);
+}
 
-	p {
-		margin: 0;
-	}
+#boxOpenSource p, #boxGists p {
+	margin: 0;
+}
 
-	code {
-		color: #555555;
-	}
+#boxOpenSource code, #boxGists code {
+	color: #555555;
 }
 
 /*
