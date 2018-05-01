@@ -72,7 +72,7 @@
           <div class="list">
             <ul>
               <li class="prj_github" v-for="gist in gists">
-                <code>{{ gist.language }}</code> <a href="{{ gist.url }}">{{ gist.description }}</a>
+                <code>{{ gist.language }}</code> <a v-bind:href="gist.url">{{ gist.description }}</a>
               </li>
             </ul>
           </div>
