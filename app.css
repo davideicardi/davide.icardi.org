@@ -189,6 +189,18 @@ li.tech_react span {
 	background-image: url(images/react.png);
 }
 
+li.tech_akka span {
+	background-image: url(images/akka.png);
+}
+
+li.tech_kafka span {
+	background-image: url(images/kafka.png);
+}
+
+li.tech_vue span {
+	background-image: url(images/vue.png);
+}
+
 li.tech_kubernetes span {
 	background-image: url(images/kubernetes.png);
 }
