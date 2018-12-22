@@ -41,8 +41,8 @@ function getGists(){
   })
   .catch((e) => {
     return [{
-      description: "Gists not available",
-      url: "/",
+      description: "Show all Gist",
+      url: "https://gist.github.com/davideicardi",
       language: "-"
     }];
   });
