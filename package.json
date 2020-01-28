@@ -1,0 +1,22 @@
+{
+  "name": "davideicardi.com",
+  "version": "1.0.0",
+  "description": "davideicardi.com ==================",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideicardi/davideicardi.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davideicardi/davideicardi.com/issues"
+  },
+  "homepage": "https://github.com/davideicardi/davideicardi.com#readme",
+  "devDependencies": {
+    "http-server": "0.12.1"
+  }
+}

@@ -146,7 +146,7 @@ body {
 	list-style-type: none;
 	display: block;
 	width: 90px;
-	height: 70px;
+	height: 90px;
 	float: left;
 	text-align: center;
 	text-transform: lowercase;
@@ -287,6 +287,10 @@ li.tech_cpp span {
 
 li.tech_cordova span {
 	background-image: url(images/cordova.png);
+}
+
+li.tech_python span {
+	background-image: url(images/python.png);
 }
 
 #boxOpenSource ul, #boxGists ul {
